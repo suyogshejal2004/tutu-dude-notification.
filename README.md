@@ -2,6 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/6acab20e-dad7-4616-9610-e97cc1a19de8)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Image](https://github.com/user-attachments/assets/70a9b120-3437-4a20-a787-239506e7239b)
 
 ## Get started
 
